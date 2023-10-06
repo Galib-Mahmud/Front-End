@@ -1,0 +1,20 @@
+<!DOCTYPE html>// orderd list,unorderd list ,nested list
+<head>
+    <title></title>
+    <body>
+        <ul type="disk">
+            <li>Student Name</li>
+<ol type="1" start="5">
+<li>
+    Fariya Hossen
+    
+</li>
+<li>Habibur Rahman</li>
+
+</ol>
+</ul>
+    
+
+    </body>
+</head>
+</html>
