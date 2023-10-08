@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+    <title>Image tag</title>
+    <body>
+        <p>  img tag is used to inseart image on webpage,<br>
+            <b>src</b> means image source, title means image r upor touch korle je lekha asbe oita<br>
+            alt means alternative jodi image na ase tahole ei lekha dekha jabe ,,height,width
+         </p>
+
+       <img src="flower.jpg.webp" alt="Image is missing" title="my image" height="500px" width="505px">
+        <img src="1.jpg.jpg" alt="Image is missing" title="my image" height="500px" width="500px">
+    
+
+    </body>
+</head>
+</html>
