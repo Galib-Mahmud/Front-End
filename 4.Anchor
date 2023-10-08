@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+    <a href="image.html" target="_blank"> image1</a><br/>
+    <a href="image.html" target ="_parent">image2</a>
+    <p> _blank new tab open korbe,_parent same tab a run korbe</p>
+</body>
+</html>
