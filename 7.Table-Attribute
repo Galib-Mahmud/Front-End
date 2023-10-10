@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table tag</title>
+    
+</head>
+<body>
+  
+<p> the table is used to show some
+    data which are relted to
+    each other thead is usedto create table 
+tbody is used to define the table body 
+
+</p>
+<table border="5" align="center" bgcolor="yellow"
+ cellpadding="10" cellspacing="10" width="500" hright="300">
+    <thead>
+    <tr> 
+        <th bgcolor="orange">Cources </th>
+        <th> Fees </th>
+
+    </tr>
+</thead>
+    <tbody>
+    <tr>
+        <td>
+            Laravel
+        </td>
+        <td>
+            5000
+        </td>
+    </tr>
+</tbody>
+
+    </table>
+    
+
+</body>
+</html>
