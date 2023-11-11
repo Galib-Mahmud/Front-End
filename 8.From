@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+    <title>From tag</title>
+    <body>
+        <p>  From, TExtbox,Textarea,Radio Button
+            Submit button,Reset Button
+
+            input= type,value,placeholder
+         </p>
+    <h2>
+        Enquiry
+    </h2>
+    <from>
+        Name: <input type="text" name="name" value="testing"/>
+<br/>
+<br/>
+       Address:<textarea name="address">
+
+       </textarea>
+       <br/>
+       <br/>
+       Gender: <input type="radio" value="m" name="Gender"/> Male
+       <input type="radio" value="f" name="Gender"/> Female
+       <input type="radio" value="o" name="Gender"/> Other
+       <br/>
+       <br/>
+       <input type="submit" value="Send"/>
+       <input type="reset" value="Reset"/>
+    </from>
+
+    </body>
+</head>
+</html>
