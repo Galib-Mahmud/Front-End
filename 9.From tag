@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title> Registation from</title>
+</head>
+<body>
+
+    <from>
+        <table>
+            <tr>
+                <td>
+                    Name:
+                </td>
+                <td>
+                    <input type="text" placeholder="Name" name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password:
+                </td>
+                <td> 
+                    <input type="password"placeholder="Password" name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Email:
+                </td>
+                <td>
+                    <input type="mail" placeholder="Email" name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Gender:
+                </td>
+                <td>
+
+                    <input type="radio" value="M" name="Gender">Male
+                    <input type="radio" value="F" name="Gender">FeMale
+                    <input type="radio" value="O" name="Gender">Other
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Phone no:
+                </td>
+                <td>
+                    <select>
+                        <option>017</option>
+                        <option>015</option>
+                        <option>016</option>
+                    </select>
+                    <input type="Phone" placeholder="1545,,," name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Submit" name="">
+                </td>
+            </tr>
+
+        </table>
+
+    </from>
+</body>
+
+</html>
